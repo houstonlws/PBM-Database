@@ -14,8 +14,8 @@ This repository provides a simple way to spin up a MySQL container with a preloa
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/my-mysql-docker-project.git
-   cd my-mysql-docker-project
+   git clone https://github.com/houstonlws/PBM-Database.git
+   cd PBM-Database
 
    ```
 
