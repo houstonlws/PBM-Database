@@ -8,7 +8,7 @@ The PBM database is a MySQL database that stores all information used in the app
 
 ### Configure the Database
 
- You can configure the database connection by updating the `.env` file located in the `PBM-Database` directory. Modify the following variables:
+You can configure the database connection by updating the `.env` file located in the `PBM-Database` directory. Modify the following variables:
 
 - `MYSQL_USER`
 - `MYSQL_PASSWORD`
